@@ -1,7 +1,7 @@
 # 📈 Website Traffic Analysis – SQL + Power BI Project
 
-> **Domain:** Web Analytics | User Behavior Insights | Marketing Analytics  
-> **Tools Used:** SQL (MySQL) • Power BI
+ **Domain:** Web Analytics | User Behavior Insights | Marketing Analytics  
+ **Tools Used:** SQL (MySQL) • Power BI
 
 ---
 
